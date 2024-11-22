@@ -1,0 +1,11 @@
+[
+    {
+        "_id": "admin123",
+        "name": "Admin",
+        "email": "admin@exemplo.com", 
+        "password": "$2a$10$nO0GwxHsw1Y8Qb3HV1/tHepf4PsuHLSL8X4.LuJQEVvOHuAUiQtAm", 
+        "phone": "11999999999",
+        "createdAt": "2024-02-20T10:30:00.000Z",
+        "updatedAt": "2024-02-20T10:30:00.000Z"
+    }
+]
